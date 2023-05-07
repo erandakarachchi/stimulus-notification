@@ -15,6 +15,37 @@ See [stimulus-notification documentation](https://www.stimulus-components.com/do
 
 ## 👷‍♂️ Contributing
 
+### Local Development
+
+Fork, then clone the repo:
+
+```
+git clone https://github.com/YOUR_USERNAME/stimulus-notification.git
+```
+Go to the project directory and install dependencies
+
+```shell
+npm install
+```
+or if you're using yarn
+
+```shell
+yarn install
+```
+
+Then run the project
+
+```
+npm run dev
+```
+or if you're using yarn
+
+```
+yarn run dev
+```
+
+This will start the local server in `http://127.0.0.1:5173/`
+
 Do not hesitate to contribute to the project by adapting or adding features ! Bug reports or pull requests are welcome.
 
 ## 📝 License
